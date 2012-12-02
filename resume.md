@@ -4,17 +4,9 @@
  * <http://23b.it>
  * 347-331-6840 
 
-## Background
-
-I am a software developer with an interest in communication and design. I enjoy experimenting with new things to expand my knowledge and I believe that creating ways for people to share knowledge is one of the greatest goals for mankind. 
-
-I strive to be a quick learner and both a competent leader and capable worker. I am an Eagle Scout and was an active officer of the Cal Poly Linux Users Group for three years. I was awarded Cal Poly's Residence Hall Council member of the year for both 2006 and 2007. In my free time I enjoy contributing to open source projects, hiking, reading and listening to music.
-
-
-
 ## Experience
 
-### Retail Therapy 
+### [Retail Therapy](https://vimeo.com/50476025) 
 
 #### Designer & Developer: August 2012 ~ Present 
 
@@ -28,33 +20,43 @@ I strive to be a quick learner and both a competent leader and capable worker. I
 
 #### Mobile Developer: September 2011 ~ August 2012
 
-* Kicked ass
-* kikced some more ass
-* kicked the ass out the park
-* kicked mega ass
-* kicked super mega ass
+* Facilitated communication with external iOS vendor to manage progress of iOS app. 
+* Aided in creation of the Mixsee API. Coded endpoint functionality which was then hooked to the Mongo database. 
+* Assisted in the UX design for the Android version of Mixsee. 
+* Produced several working prototypes of Mixsee for different Android devices. 
+* Debugged and trouble-shot iOS vendor code, fixing a number of issues which enhanced overall performance of the app. 
 
-### [2k Games](http://www.2kgames.com/#/) 
+### [2k Games](http://www.2kgames.com/) 
 
 #### Developer: September 2009 ~ November 2009 
 
-* Concepted and researched recent scientific studies in happiness, which led to wireframes for the app.
-* Wireframed and designed assests for app using Photoshop.    
-* Normalized database design for the app, which allowed for easy scalibility of functionality.
-* 5
+*Site was recipient of the Adobe Site of the Day Award and theFWA Award.*
+
+* Built out jobs page, and optomized animation of map points.   
+* Integrated jobs page with the 2k games API hooks which allowed employees at 2k games to make updates to the site via the CMS.
+* Translated coordinate system to map lat/lon coordinate points to the map graphic for accurate geolocation placement of jobs. 
+*  
 * 4
 
 ### [Starwood Hotels Luxury Collection](http://www.starwoodhotels.com/luxury/search/explore_collection.html) 
 
 #### Lead Developer: February 2009 ~ May 2009  
 
-* Concepted and researched recent scientific studies in happiness, which led to wireframes for the app.
-* Wireframed and designed assests for app using Photoshop.    
-* Normalized database design for the app, which allowed for easy scalibility of functionality.
+*Site was recipient of the Adobe Site of the Day Award.*
+
+* Worked remotely at Starwood's offices to integrate the sliver system with their API.
+* Created and implemented interaction design which was eventually approved by Starwood.
+*  
 * 5
 * 4
 
 ### [Hands for Haiti](http://dev.pxlflu.net/haiti) 
+
+#### Designer & Developer  
+
+*Site was created and managed by myself in an effort to organize relief events in the NYC area.*
+
+### [The Book of Lulz](http://thebookoflulz.org) 
 
 #### Designer & Developer  
 
