@@ -21,7 +21,8 @@
 #### Lead Mobile Developer: September 2011 ~ August 2012
 
 * Facilitated communication with external iOS vendor to manage progress of iOS app. 
-* Aided in creation of the Mixsee API. Coded endpoint functionality which was then hooked to the Mongo database. 
+* Aided in creation of the Mixsee API. 
+* Coded endpoint functionality which was then hooked to the Mongo database. 
 * Assisted in the UX design for the Android version of Mixsee. 
 * Produced several working prototypes of Mixsee for different Android devices. 
 * Debugged and trouble-shot iOS vendor code, fixing a number of issues which enhanced overall performance of the app. 
@@ -65,7 +66,7 @@
 * Single handedly compounded midtown Manhattan smile ratio by 38% third quarter 2012.
 
 ## Proficiency
-[ **python**: proficient ], [ **android**: proficient ], [ **as3**: expert ], [ **javascript**: proficient ], [ **objc**: proficient ], [ **c**: prior experience ], [ **mongodb**: proficient ], [ **git**: proficient ], [ **oopd**: expert ], [ **vim**: prior experience ], [ **photoshop/illustrator/indesign**: proficient ] 
+[ **python**: proficient ], [ **android**: proficient ], [ **as3**: expert ], [ **javascript**: proficient ], [ **objc**: proficient ], [ **c**: prior experience ], [ **mongodb**: proficient ], [ **git**: proficient ], [ **oopd**: expert ], [ **vim**: prior experience ], [ **photoshop/illustrator/indesign**: proficient ], [ **flask**: prior experience ], [ **django**: prior experience ], [ **sinatra**: prior experience ] 
 
 ## Education
 
