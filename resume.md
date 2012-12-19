@@ -1,8 +1,8 @@
-# Jabari Bell 
+# Dawson Curtis Blackhouse
 
- * <jabari.bell@23b.it>
- * <http://23b.it>
- * 347-331-6840 
+ * <dawson@angryshakingfist.com>
+ * <http://angryshakingfist.com>
+ * 404.547.8761 
 
 ## Experience
 
