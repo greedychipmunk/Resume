@@ -3,14 +3,14 @@
 # Stuff about you.
 user_config:
   # Your Name. This will be used for the page title
-  name: 'Jabari Bell'
+  name: 'Dawson Blackhouse'
 
   # The file you want to parse to be your resume
   # Must be a format supported by github-markup
   file: 'resume.md'
 
   # A picture of you. Should be a complete url
-  pic: 'http://farm5.static.flickr.com/4044/4529365975_dd958b4ba1.jpg'
+  pic: 'https://sphotos-a.xx.fbcdn.net/hphotos-prn1/545312_701831866387_708737045_n.jpg'
 
   # The google analytics key you wish to use.
   gkey: 'UA-36737484-1'
@@ -18,4 +18,4 @@ user_config:
 # For github pages to work, this needs to be the GitHub repository this file is
 # stored in.
 github:
-  remote: 'git@github.com:alonecuzzo/Resume.git'
+  remote: 'git@github.com:greedychipmunk/Resume.git'
