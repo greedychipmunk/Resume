@@ -1,74 +1,63 @@
-# Jabari Bell 
+# Dawson Curtis Blackhouse
 
- * <jabari.bell@23b.it>
- * <http://23b.it>
- * 347-331-6840 
+ * <dawson@angryshakingfist.com>
+ * <http://angryshakingfist.com>
+ * <https://github.com/greedychipmunk>
 
 ## Experience
 
-### [Retail Therapy](https://vimeo.com/50476025) 
+### [WebMD.com](www.webmd.com) 
 
-#### Lead Designer & Developer: August 2012 ~ Present 
+#### Web Developer: April 2010 ~ December 2012 
 
-* Researched recent scientific studies in happiness, which led to wireframes for the app.
-* Wire-framed and designed assets for app using Photoshop.    
-* Normalized database design for the app, which allowed for easy scalability of functionality.
+* Team lead for the Interactive Development group tasked with the development and maintenance of the WebMD Health Check and Express Assessment products.
+* Built and maintained Flash versions of the assessments.    
+* Migrated products from Flash to JS/HTML/CSS.
+* Built mobile version of assessment product.
 * Integrated app designs with app implementation.  
-* Successfully fought schizophrenic urges wearing designer and developer hats.
+* Built Javascript API that facilitates backend communication for JS/HTML/CSS assessments.
 
-### [Mixsee](http://mixsee.com) 
+### [AutoTrader.com](http://www.autotrader.com) 
 
-#### Lead Mobile Developer: September 2011 ~ August 2012
+#### UI Engineer: 2008 ~ 2010
 
-* Facilitated communication with external iOS vendor to manage progress of iOS app. 
-* Aided in creation of the Mixsee API. 
-* Coded endpoint functionality which was then hooked to the Mongo database. 
-* Assisted in the UX design for the Android version of Mixsee. 
-* Produced several working prototypes of Mixsee for different Android devices. 
-* Debugged and trouble-shot iOS vendor code, fixing a number of issues which enhanced overall performance of the app. 
+* Responsible for every instance of video playing on the site. 
+* Customized the JW Player from LongTail Video to meet consumer and business needs. 
+* Provided a rich media experience for the nation's car shoppers and allowed dealers to show commercials along with their car listing. 
+* Technology used: Actionscript, Javascript, HTML/CSS. 
 
-### [2k Games](http://www.2kgames.com/) 
+### [Delcan Corporation](http://www.delcan.com/) 
 
-#### Developer: September 2009 ~ November 2009 
+#### Software Engineer: 2006 ~ 2008 
 
-*Site was recipient of the Adobe Site of the Day Award and theFWA Award.*
+* Developed, tested, implemented and provided maintenance of Advanced Transportation Management Systems located in Georgia and New Hampshire.
+* Technology used: C++, Javascript (AJAX), HTML/CSS, JSON, XML
 
-* Built out jobs page, and optimized animation of map points.   
-* Integrated jobs page with the 2k games API hooks which allowed employees at 2k games to make updates to the site via the CMS.
-* Translated coordinate system to map lat/lon coordinate points to the map graphic for accurate geolocation placement of jobs. 
+## Projects
 
-### [Starwood Hotels Luxury Collection](http://www.starwoodhotels.com/luxury/search/explore_collection.html) 
+### [10khours](https://github.com/alonecuzzo/10khours) (In-Development)
 
-#### Lead Developer: February 2009 ~ May 2009  
+#### Co-Developer
 
-*Site was recipient of the Adobe Site of the Day Award.*
-
-* Worked remotely at Starwood's offices to integrate the sliver system with their API.
-* Created and implemented interaction design which was eventually approved by Starwood.
-* Integrated BBDO's development workflow with Starwood's by working closely with Starwood's team to create a hybrid process.  
-* Kept the project rolling after entire team left, which effectively meant taking on the roles of project manager, designer, and art director until new staff was hired.
-
-### [Hands for Haiti](http://dev.pxlflu.net/haiti) 
-
-#### Lead Designer & Developer: February 2010 
-
-*Site was created and managed by myself in an effort to organize relief events in the NYC area.*
-
-* Developed and designed the site the night of the earthquake.
-* Managed coordinating with event organizers in NYC to keep site updated.
+* 10,000 hours to mastery!
+* 10K tracks your habits, goals, activities or anything that you want.
+* It's said that it takes 10,000 hours to achieve mastery in anything.
 
 ### [The Book of Lulz](http://thebookoflulz.org) 
 
-#### Lead Designer & Developer  
+#### Co-Developer  
 
 * Took the site from concept to execution using the Tumblrs.
-* Fished and sorted through the best lulz to maximize team morale in the greater NYC area.
-* Single handedly compounded midtown Manhattan smile ratio by 38% third quarter 2012.
+* Fished and sorted through the best lulz to maximize team morale in the greater Atlanta area.
+* Single handedly compounded midtown smile ratio by 38% third quarter 2012.
 
 ## Proficiency
-[ **python**: proficient ], [ **android**: proficient ], [ **as3**: expert ], [ **javascript**: proficient ], [ **objc**: proficient ], [ **c**: prior experience ], [ **mongodb**: proficient ], [ **git**: proficient ], [ **oopd**: expert ], [ **vim**: prior experience ], [ **photoshop/illustrator/indesign**: proficient ], [ **flask**: prior experience ], [ **django**: prior experience ], [ **sinatra**: prior experience ] 
+[ **javascript**: proficient ], [ **java**: proficient], [ **android**: proficient ], [ **as3**: expert ], [ **obj-c**: proficient ], [ **c**: prior experience ], [ **git**: proficient ], [ **vim**: prior experience ], [ **photoshop/illustrator/inkscape**: proficient ], 
 
 ## Education
 
 Computer Science, B.S.  
 Morehouse College, Atlanta, GA
+
+Juris Doctorate, Taxation  
+John Marshall Law School, 2011 ~ Present
