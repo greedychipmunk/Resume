@@ -6,14 +6,14 @@
 
 ## Experience
 
-### [AT&T](www.att.com)
+### [AT&T](http://www.att.com)
 
 #### Senior HTML5 UI Developer: February 2013 ~ Present
 
 * Senior programmer maintaining the AT&T Messages application.
 * Researching and evaluating new technologies for the benefit of all AT&T products.
 
-### [WebMD.com](www.webmd.com) 
+### [WebMD.com](http://www.webmd.com) 
 
 #### Web Developer: April 2010 ~ December 2012 
 
