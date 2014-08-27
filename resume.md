@@ -83,7 +83,7 @@
 * Single handedly compounded midtown smile ratio by 38% third quarter 2012.
 
 ## Proficiency
-[ **javascript**: proficient ], [ **nodejs**: proficient], [**angularjs**: proficient], [**mongodb**: proficient], [**backbonejs**: proficient], [**scala**: prior experience], [ **java**: proficient], [ **android**: proficient ], [ **as3**: expert ], [ **obj-c**: proficient ], [ **c++**: prior experience ], [ **git**: proficient ], [ **vim**: proficient ], [ **photoshop/illustrator/inkscape**: proficient ],
+[ **javascript**: proficient ], [ **nodejs**: proficient], [**angularjs**: proficient], [**mongodb**: proficient], [**backbonejs**: proficient], [**jasmine**: proficient], [**scala**: prior experience], [ **java**: proficient], [ **android**: proficient ], [ **as3**: expert ], [ **obj-c**: proficient ], [ **c++**: prior experience ], [ **git**: proficient ], [ **vim**: proficient ], [ **photoshop/illustrator/inkscape**: proficient ],
 
 ## Education
 
