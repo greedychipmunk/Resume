@@ -58,7 +58,7 @@
 * Extended video capability and eliminated showstopping defects in the mobile/web messaging application, AT&T Messages.
 * Used JavaScript (jQuery), AngularJS, HTML5/CSS3, SASS and SCRUM methodology.
 
-### Unified Mobile/Desktop Health Assessment
+### [Unified Mobile/Desktop Health Assessment](http://greedychipmunk.github.io/Resume/)
 
 #### Technical Lead
 
