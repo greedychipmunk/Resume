@@ -66,22 +66,6 @@
 * Simulated Q&A session with doctor and provided customized summary to user based on answers given.
 * Used Javascript (jQuery), HTML/CSS3,SASS,and SCRUM
 
-### [10khours](https://github.com/alonecuzzo/10khours) (In-Development)
-
-#### Co-Developer
-
-* 10,000 hours to mastery!
-* 10K tracks your habits, goals, activities or anything that you want.
-* It's said that it takes 10,000 hours to achieve mastery in anything.
-
-### [The Book of Lulz](http://thebookoflulz.org)
-
-#### Co-Developer  
-
-* Took the site from concept to execution using the Tumblrs.
-* Fished and sorted through the best lulz to maximize team morale in the greater Atlanta area.
-* Single handedly compounded midtown smile ratio by 38% third quarter 2012.
-
 ## Proficiency
 [ **javascript**: proficient ], [ **nodejs**: proficient], [**angularjs**: proficient], [**mongodb**: proficient], [**backbonejs**: proficient], [**jasmine**: proficient], [**scala**: prior experience], [ **java**: proficient], [ **android**: proficient ], [ **as3**: expert ], [ **obj-c**: proficient ], [ **c++**: prior experience ], [ **git**: proficient ], [ **vim**: proficient ], [ **photoshop/illustrator/inkscape**: proficient ],
 
