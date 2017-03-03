@@ -6,9 +6,39 @@
 
 ## Experience
 
+### [360i](https://360i.com)
+
+#### ReactJS Developer: February 2017 - March 2017 (4-6 month contract)
+
+* Doing, literally, the same thing I did at Sparks Grove.
+* Added Redux, React Router, D3, and Jest to an existing application.
+* Used JavaScript (ES6), ReactJS, React Router, Redux, D3, HTML5/CSS3, and Jest.
+
+### [Sparks Grove](http://sparksgrove.com)
+
+#### ReactJS Developer: July 2016 ~ February 2017
+
+* Implemented Jest snapshot testing and led refactoring effort for Coke's Asset Planning Tool.
+* Optimized existing D3 implementations and customized D3 and C3.
+* Used JavaScript (ES6), ReactJS, React Router, Redux, D3, C3, HTML5/CSS3, Jest, and SCRUM methodology.
+
+### [Autotrader](http://www.autotrader.com)
+
+#### UI Engineer: January 2015 ~ July 2016
+
+* Led front-end transition from JSF to ReactJS using Alt Flux implementation.
+
+### [Razorfish](https://www.razorfish.com)
+
+#### Presentation Layer Engineer: October 2014 ~ January 2015
+
+* Developed next generation UI experience for Washington Gas Company.
+* Launched and maintained the NFL Lets Get Loud campaign for Bridgestone Tires.
+* Used JavaScript (ES6), ReactJS, React Router, Redux, D3, C3, HTML5/CSS3, Jest, and SCRUM methodology.
+
 ### [AT&T](http://www.att.com)
 
-#### Senior HTML5 UI Developer: February 2013 ~ Present
+#### Senior HTML5 UI Developer: February 2013 ~ October 2014 
 
 *	Engineered company-wide solution to consolidate customers with multiple subscriptions under a single account.
 *	Published APIs facilitating the integration of customer voicemail data with mobile and web applications.
@@ -66,29 +96,13 @@
 * Simulated Q&A session with doctor and provided customized summary to user based on answers given.
 * Used Javascript (jQuery), HTML/CSS3,SASS,and SCRUM
 
-### [10khours](https://github.com/alonecuzzo/10khours) (In-Development)
-
-#### Co-Developer
-
-* 10,000 hours to mastery!
-* 10K tracks your habits, goals, activities or anything that you want.
-* It's said that it takes 10,000 hours to achieve mastery in anything.
-
-### [The Book of Lulz](http://thebookoflulz.org)
-
-#### Co-Developer  
-
-* Took the site from concept to execution using the Tumblrs.
-* Fished and sorted through the best lulz to maximize team morale in the greater Atlanta area.
-* Single handedly compounded midtown smile ratio by 38% third quarter 2012.
-
 ## Proficiency
-[ **javascript**: proficient ], [ **nodejs**: proficient], [**angularjs**: proficient], [**mongodb**: proficient], [**backbonejs**: proficient], [**jasmine**: proficient], [**scala**: prior experience], [ **java**: proficient], [ **android**: proficient ], [ **as3**: expert ], [ **obj-c**: proficient ], [ **c++**: prior experience ], [ **git**: proficient ], [ **vim**: proficient ], [ **photoshop/illustrator/inkscape**: proficient ],
+[ **javascript(es6)**: expert ], [ **reactjs**: expert ], [ **nodejs**: proficient ], [ **express**: proficient ], [ **mongodb**: proficient ], [ **sass**: expert ], [ **html5**: expert], [ **css**: expert], [ **as3**: expert ], [ **obj-c**: prior experience ], [ **c++**: prior experience ], [ **git**: proficient ], [ **vim**: expert ], [ **photoshop/illustrator/inkscape**: proficient ],
 
 ## Education
 
 Computer Science, B.S.  
 Morehouse College, Atlanta, GA
 
-Juris Doctorate, Taxation  
+Juris Doctorate, Patent Law
 John Marshall Law School, 2011 ~ 2015
